@@ -1,4 +1,14 @@
-#This is my project directory. Run the file ./user_mgmt.sh
+#This is my project directory. 
+
+There are three files that I have created. 
+
+user_mgmt.sh - This was created for user management. 
+
+group_mgmt.sh - This file was created for group management.
+
+backup_mgmt.sh - This file was created for backup management. 
+
+Run the file ./user_mgmt.sh and all will execute as per your instructions. There is no need to execute all files. 
 
 ![1](https://github.com/deepakdnimbalkar/01_project_new/assets/158213632/5ea2e0ab-9ce3-4863-85ea-53b2dcaea71f)
 
